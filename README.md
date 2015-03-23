@@ -31,3 +31,9 @@ crontab: no crontab for arun
 
 ##We can use ```at``` as well
 
+```
+https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Deployment_Guide/s2-services-chkconfig.html
+```
+
+
+
